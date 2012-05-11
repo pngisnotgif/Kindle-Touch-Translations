@@ -1,0 +1,436 @@
+[main]
+host = https://www.transifex.net
+lang_map = zh:zh
+source_lang = en
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-Dialog]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-Dialog\<lang>.properties
+lang_map = zh_TW: zh_TW
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-Experimental]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-Experimental\<lang>.properties
+lang_map = zh_TW: zh_TW
+source_lang = en_US
+
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-m-u-v-c-r-CoverView]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-m-u-v-c-r-CoverView\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-Behavior]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-Behavior\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-r-Catalog]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-r-Catalog\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-a-u-r-Areas]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-a-u-r-Areas\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-s-e-r-ReaderException]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-s-e-r-ReaderException\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-Dictionary]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-Dictionary\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-Archive]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-Archive\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-a-s-r-Component]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-a-s-r-Component\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-c-r-Menu]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-c-r-Menu\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-Language]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-Language\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-ImportCollections]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-ImportCollections\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-i-r-PDFReaderImpl]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-i-r-PDFReaderImpl\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-t-r-TTS]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-t-r-TTS\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-k-u-r-KOptionPane]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-k-u-r-KOptionPane\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-Property]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-Property\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-k-i-d-i-DeveloperCertificateInstaller]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-k-i-d-i-DeveloperCertificateInstaller\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-a-r-Ad]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-a-r-Ad\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-p-r-PublicNotes]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-p-r-PublicNotes\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-u-r-ReadingPaneHeader]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-u-r-ReadingPaneHeader\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-k-u-r-UI]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-k-u-r-UI\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-p-r-SidecarPageNumberProvider]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-p-r-SidecarPageNumberProvider\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-Collection]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-Collection\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-DetailViewFactory]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-DetailViewFactory\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-k-i-KindletFactory]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-k-i-KindletFactory\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-ItemsToCollection]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-ItemsToCollection\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-s-r-SearchPlugin]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-s-r-SearchPlugin\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-b-a-r-Ad]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-b-a-r-Ad\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-r-Widgets]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-r-Widgets\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-a-r-OTA]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-a-r-OTA\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-BackIssues]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-BackIssues\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-a-r-AudibleException]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-a-r-AudibleException\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-u-r-SimpleTextListFormat]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-u-r-SimpleTextListFormat\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-SearchResults]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-SearchResults\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-Action]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-Action\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-k-i-n-NetworkDisabledDetails]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-k-i-n-NetworkDisabledDetails\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-AddToCollections]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-AddToCollections\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-k-i-s-KindletClassLoader]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-k-i-s-KindletClassLoader\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-Menu]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-Menu\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-Legal]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-Legal\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-b-u-v-h-r-BlogHome]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-b-u-v-h-r-BlogHome\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-s-r-SystemsCards]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-s-r-SystemsCards\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-a-u-r-Util]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-a-u-r-Util\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-Registration]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-Registration\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-a-u-r-Dialog]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-a-u-r-Dialog\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-a-i-t-r-ToDoHandler]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-a-i-t-r-ToDoHandler\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-k-i-r-KindletBooklet]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-k-i-r-KindletBooklet\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-r-SystemMessages]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-r-SystemMessages\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-p-r-Purchase]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-p-r-Purchase\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-PendingPurchases]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-PendingPurchases\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-r-CommunicationManager]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-r-CommunicationManager\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-k-i-r-KindletToDoHandler]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-k-i-r-KindletToDoHandler\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-c-r-DisplayController]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-c-r-DisplayController\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-i-u-r-UI]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-i-u-r-UI\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-Menu]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-Menu\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-Browse]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-Browse\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-a-x-r-XRay]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-a-x-r-XRay\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-s-r-Sharing]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-s-r-Sharing\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-i-d-r-PeriodicalsDetailView]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-i-d-r-PeriodicalsDetailView\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-ReadingOptions]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-ReadingOptions\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-k-i-h-KindletDetailView]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-k-i-h-KindletDetailView\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-u-r-PeriodicalReadingPane]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-u-r-PeriodicalReadingPane\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-u-r-TimeZoneUtil]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-u-r-TimeZoneUtil\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-Dialog]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-Dialog\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-n-u-v-c-r-ContentView]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-n-u-v-c-r-ContentView\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-Passcode]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-Passcode\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-c-r-Util]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-c-r-Util\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-u-r-TimeZoneMappings]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-u-r-TimeZoneMappings\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-c-r-Widget]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-c-r-Widget\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-u-r-StringUtil]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-u-r-StringUtil\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-i-r-IndexView]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-i-r-IndexView\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-a-r-DetailViewFactory]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-a-r-DetailViewFactory\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-Keyboard]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-Keyboard\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-c-r-Clippings]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-c-r-Clippings\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-DeviceOptions]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-DeviceOptions\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-r-SpeechOutput]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-r-SpeechOutput\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-r-c-c-r-CollectionsJournal]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-r-c-c-r-CollectionsJournal\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-k-i-m-AudioErrorMessage]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-k-i-m-AudioErrorMessage\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-n-r-Annotation]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-n-r-Annotation\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-u-r-ReadingPaneFooter]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-u-r-ReadingPaneFooter\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-Renderer]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-Renderer\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-s-r-ReaderSDK]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-s-r-ReaderSDK\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-a-g-r-AudibleUI]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-a-g-r-AudibleUI\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-b-u-v-h-r-BlogHomeWidget]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-b-u-v-h-r-BlogHomeWidget\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-n-u-v-s-r-SectionStart]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-n-u-v-s-r-SectionStart\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-u-r-PeriodicalsUI]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-u-r-PeriodicalsUI\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-n-u-v-c-r-ContentViewMasthead]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-n-u-v-c-r-ContentViewMasthead\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-c-r-Dialog]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-c-r-Dialog\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-s-r-SearchResultsPane]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-s-r-SearchResultsPane\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-i-u-r-HighlightDrawer]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-i-u-r-HighlightDrawer\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-i-t-h-r-ContentToDoHandler]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-i-t-h-r-ContentToDoHandler\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-m-u-v-h-r-MagazineHomeWidget]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-m-u-v-h-r-MagazineHomeWidget\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-m-i-r-BestDefinitionHeuristic]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-m-i-r-BestDefinitionHeuristic\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-m-u-v-h-r-MagazineHome]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-m-u-v-h-r-MagazineHome\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-n-u-v-h-r-PeriodicalsHomeWidget]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-n-u-v-h-r-PeriodicalsHomeWidget\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-u-r-NumberUtil]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-u-r-NumberUtil\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-p-p-r-PopularHighlights]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-p-p-r-PopularHighlights\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-r-StatusBar]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-r-StatusBar\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-u-r-DateUtil]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-u-r-DateUtil\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-p-b-u-v-h-r-BlogHomeSpecialWidget]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-p-b-u-v-h-r-BlogHomeSpecialWidget\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-Settings]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-Settings\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-s-r-International]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-s-r-International\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-i-a-p-r-PersonalAnnotation]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-i-a-p-r-PersonalAnnotation\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-r-Reader]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-r-Reader\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-k-h-r-Unindexed]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-k-h-r-Unindexed\<lang>.properties
+source_lang = en_US
+
+[kindle-touch-framework.5-0-3--c-a-e-b-r-r-DetailViewFactory]
+file_filter = translations\kindle-touch-framework.5-0-3--c-a-e-b-r-r-DetailViewFactory\<lang>.properties
+source_lang = en_US
+
