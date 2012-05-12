@@ -1,0 +1,48 @@
+' Usage:
+'			Copy the contents below to your Word VBA.
+
+
+Sub 批量简体转繁体()
+'
+' 批量简体转繁体 宏
+'
+' author: Matthew
+' date: 2012-4-2
+
+    ' You need to change this number and file name.
+    fileNums = 106  ' file number
+    
+    preDirName = "E:\git\kindle_Trans\translations\"
+    FileName = "zh_TW.properties"   ' the file name that is to deal with
+    dirNameFile = preDirName + "dir_name.txt"   ' the directories are saved in file using git bash
+    
+    ReDim dirs(fileNums) As String
+    
+    ' 创建文件对象，这句是必须的
+    Set fs = CreateObject("Scripting.FileSystemObject")
+    ' 打开文件
+    Set dirFile = fs.OpenTextFile(dirNameFile)
+    
+    ' looping for every assigned directories.
+    For i = 1 To fileNums
+        dirs(i) = dirFile.ReadLine  ' 每次读入一个目录（一行）
+        dirname = preDirName + dirs(i) + "\"
+        
+        ChangeFileOpenDirectory dirname
+            
+        Documents.Open FileName:=FileName, ConfirmConversions:=False, _
+            ReadOnly:=False, AddToRecentFiles:=False, PasswordDocument:="", _
+            PasswordTemplate:="", Revert:=False, WritePasswordDocument:="", _
+            WritePasswordTemplate:="", Format:=wdOpenFormatAuto, XMLTransform:="", _
+            Encoding:=msoEncodingUTF8   '打开文件的编码方式
+            
+        Selection.Range.TCSCConverter WdTCSCConverterDirection:= _
+            wdTCSCConverterDirectionSCTC, CommonTerms:=True, UseVariants:=True
+            
+        ActiveDocument.Save
+        ActiveDocument.Close
+        
+    Next i
+
+
+End Sub 'end of Sub 批量简体转繁体
